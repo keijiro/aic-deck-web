@@ -1,0 +1,1 @@
+.popup-video{z-index:10;justify-content:center;align-items:center;display:flex;position:absolute;inset:0}.popup-video video{object-fit:contain;background:#000;width:100%;height:100%}.popup-video-enter-active,.popup-video-leave-active{transition:opacity .3s,transform .3s}.popup-video-enter-from,.popup-video-leave-to{opacity:0;transform:scale(.95)}

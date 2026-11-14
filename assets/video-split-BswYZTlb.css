@@ -1,0 +1,1 @@
+.slidev-layout.video-split{grid-template-columns:minmax(0,3fr) minmax(0,2fr);align-items:center;gap:40px;display:grid}.video-split video{width:100%}

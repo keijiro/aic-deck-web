@@ -1,0 +1,1 @@
+.session-bars[data-v-c421ec28]{flex-direction:column;justify-content:center;gap:12px;width:70%;height:100%;margin:0 auto;display:flex}.session-bars .bar[data-v-c421ec28]{background:var(--c-green);transform-origin:0;height:22px;transition:transform .8s cubic-bezier(.65,0,.35,1)}.session-bars.shrunk .bar[data-v-c421ec28]{transform:scaleX(.35)}

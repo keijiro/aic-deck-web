@@ -1,0 +1,1 @@
+.slidev-layout.video-pair{grid-template-rows:repeat(2,minmax(0,1fr));gap:24px;padding-left:96px;padding-right:32px;display:grid}.video-pair-row{grid-template-columns:auto minmax(0,1fr) auto;align-items:center;gap:40px;min-height:0;display:grid}.video-pair-row video{width:380px}.video-pair-row h1{margin-bottom:.5rem}.video-pair-row .slide-qr{align-self:end;position:static}

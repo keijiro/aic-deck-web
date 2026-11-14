@@ -1,0 +1,1 @@
+var e=`/images/sec6/tower-defense-1.jpg`;export{e as t};
