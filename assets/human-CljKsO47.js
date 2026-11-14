@@ -1,0 +1,1 @@
+var e=`/aic-deck-web/images/sec3/human.png`;export{e as t};

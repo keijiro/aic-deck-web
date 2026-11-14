@@ -1,0 +1,1 @@
+var e=`/aic-deck-web/images/sec6/tower-defense-1.jpg`;export{e as t};

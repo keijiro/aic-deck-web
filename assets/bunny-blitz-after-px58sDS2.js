@@ -1,0 +1,1 @@
+var e=`/aic-deck-web/images/sec4/bunny-blitz-after.png`;export{e as t};

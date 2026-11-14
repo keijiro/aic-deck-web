@@ -1,1 +1,0 @@
-var e=`/images/sec3/human.png`;export{e as t};

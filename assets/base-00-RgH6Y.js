@@ -1,0 +1,1 @@
+function e(e){let t=`/aic-deck-web/`;return!e||!e.startsWith(`/`)||e.startsWith(t)?e:t+e.slice(1)}export{e as t};
